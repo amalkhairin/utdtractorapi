@@ -8,8 +8,6 @@ postman documentaion: [postman documentation](https://documenter.getpostman.com/
 
 - `POST /api/auth/register` - Register a new user
 - `POST /api/auth/login` - Log in with user credentials
-- `POST /api/auth/logout` - Log out and clear the authentication session
-- `POST /api/auth/refresh` - Refresh an expired authentication token
 
 ## Category Products
 
