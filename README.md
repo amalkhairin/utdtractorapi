@@ -2,7 +2,25 @@
 
 postman documentaion: [postman documentation](https://documenter.getpostman.com/view/14513514/2sA3s3HBbv)
 
+## how to run
+run seeder
+```
+php artisan db:seed
+```
+
+<br>
+run server
+
+```
+php artisan serve
+```
+
 ## API Endpoints
+
+base url
+```
+http://127.0.0.1:8000
+```
 
 ## Auth
 
